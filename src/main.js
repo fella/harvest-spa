@@ -7,7 +7,7 @@ const output = document.getElementById('output');
 const show = (msg) => {
   output.textContent += `\n${msg}`;
 };
-
+// Versioning test
 (async () => {
   const auth0 = await createAuth0Client({
     domain: 'dev-n6li42pa7lfgyazm.us.auth0.com',
