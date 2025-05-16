@@ -1,6 +1,5 @@
 {
   "name": "auth0-spa-vite-demo",
-  "type": "module",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
